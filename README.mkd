@@ -1,0 +1,10 @@
+This project can help you generate different Finite State Machine(FSA) graphs of a given regular expression.
+For now, it supports:
+
+ * NFA (Thompson NFA)
+ * DFA (Converted from NFA)
+ * Minimized DFA
+ 
+Usage
+-----
+See dot.py.
